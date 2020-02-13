@@ -13,7 +13,7 @@
 ##
 ##   4. serialTest.py
 ####    - 파이썬으로 아두이노와 시리얼통신을 구현한 코드. 단순 학습목적으로 
-# 부터 문제해결의 모든 과정을 담은 내용
+# 개발환경부터 문제해결의 모든 과정을 담은 내용
 ![미세먼지 센서 동작테스트 과정001](https://user-images.githubusercontent.com/50034678/74461645-36efb800-4ed2-11ea-9a7f-969b4c343987.jpg)
 ![미세먼지 센서 동작테스트 과정002](https://user-images.githubusercontent.com/50034678/74461646-3820e500-4ed2-11ea-9681-6e0c972cb77a.jpg)
 ![미세먼지 센서 동작테스트 과정003](https://user-images.githubusercontent.com/50034678/74461647-3820e500-4ed2-11ea-9885-ca579c7cd5d5.jpg)
